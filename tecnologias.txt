@@ -4,9 +4,10 @@ RESPONSABLE: (completar con el nombre del revisor)
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
-Descripción: (Persona A: escribe una descripción breve)
-Nivel: (Persona A: Básico / Intermedio / Avanzado)
-Recurso: (Persona A: escribe una URL o nombre de recurso)
+Descripción: [descripción breve]
+Nivel: [Básico / Intermedio / Avanzado]
+Recurso: [URL o nombre de recurso]
+
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
@@ -19,3 +20,10 @@ Tecnología: MongoDB
 Descripción: (Persona C: escribe una descripción breve)
 Nivel: (Persona C: Básico / Intermedio / Avanzado)
 Recurso: (Persona C: escribe una URL o nombre de recurso)
+
+
+
+Tecnología: React
+Descripción: [descripción breve]
+Nivel: [Básico / Intermedio / Avanzado]
+Recurso: [URL o nombre de recurso]
