@@ -1,9 +1,13 @@
 === FICHA DEL EQUIPO ===
-<<<<<<< Updated upstream
+Updated upstream
 ESTADO DEL PROYECTO: En ejecución
-=======
+
+HEAD
 ESTADO DEL PROYECTO: revision
->>>>>>> Stashed changes
+
+ESTADO DEL PROYECTO: desarrollo
+fdb9ad2523f5db0294f9cc4c37226e49950de25c
+Stashed changes
 VERSIÓN: 0.2
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: Sergi Hernandez
