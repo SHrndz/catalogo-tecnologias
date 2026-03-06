@@ -1,29 +1,21 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
-ÚLTIMA REVISIÓN: (completar con la fecha actual)
-RESPONSABLE: (completar con el nombre del revisor)
+ÚLTIMA REVISIÓN: 2026-03-06
+RESPONSABLE: Sergi Hernandez
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
-Descripción: [descripción breve]
-Nivel: [Básico / Intermedio / Avanzado]
-Recurso: [URL o nombre de recurso]
-
+Descripción: Librería de JavaScript para construir interfaces con componentes.
+Nivel: Intermedio
+Recurso: React Docs
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
-Descripción: (Persona B: escribe una descripción breve)
-Nivel: (Persona B: Básico / Intermedio / Avanzado)
-Recurso: (Persona B: escribe una URL o nombre de recurso)
+Descripción: Entorno de ejecución para JavaScript en servidor.
+Nivel: Intermedio
+Recurso: Node.js Docs
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
-
-
-
-Tecnología: React
-Descripción: [descripción breve]
-Nivel: [Básico / Intermedio / Avanzado]
-Recurso: [URL o nombre de recurso]
+Descripción: usamos mongodb
+Nivel: Básico
+Recurso: https://github.com/SHrndz/catalogo-tecnologias/tecnologias.txt
