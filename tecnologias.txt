@@ -1,6 +1,6 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
 ÚLTIMA REVISIÓN: 2026-03-06
-RESPONSABLE: Sergi Hernandez
+RESPONSABLE: Sergi Hernandez Guillem Crespo
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
