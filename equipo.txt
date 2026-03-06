@@ -2,9 +2,9 @@
 <<<<<<< Updated upstream
 ESTADO DEL PROYECTO: En ejecución
 =======
-ESTADO DEL PROYECTO: activo
+ESTADO DEL PROYECTO: desarrollo
 >>>>>>> Stashed changes
-VERSIÓN: 1.0
+VERSIÓN: 0.2
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: Sergi Hernandez
 Tecnología asignada: React
